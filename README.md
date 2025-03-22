@@ -2,7 +2,7 @@
 
 A fast-paced **console-based typing game** built in **C**, where letters fall from the top, and the player must type them correctly before they reach the bottom! Stay sharp and test your reflexes! ⌨️
 
-## 🚀 Features
+## Features
 - Randomly generated falling letters
 - Real-time key detection for smooth gameplay
 - Score and life tracking system
@@ -17,7 +17,7 @@ A fast-paced **console-based typing game** built in **C**, where letters fall fr
 5. Lose a life for every missed letter.
 6. The game ends when all lives are lost—try to set a **high score**! 🏆
 
-## 🔧 Requirements
+## Requirements
 - C compiler (MinGW, MSVC, etc.)
 - Windows console (for `gotoxy()` and `system("cls")` support)
 
