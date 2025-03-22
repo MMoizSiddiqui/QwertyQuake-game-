@@ -1,4 +1,4 @@
-# QwertyQuake Game 🎮 | C++
+# QwertyQuake Game 🎮 | C
 
 A fast-paced **console-based typing game** built in **C**, where letters fall from the top, and the player must type them correctly before they reach the bottom! Stay sharp and test your reflexes! ⌨️
 
